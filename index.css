@@ -1,0 +1,12 @@
+body{
+    background-color: gray;
+}
+div{
+    background-color: beige;
+}
+ div, p, h1{
+    text-align:center;
+}
+.template{
+    background-color: rgb(185, 192, 156);
+}
